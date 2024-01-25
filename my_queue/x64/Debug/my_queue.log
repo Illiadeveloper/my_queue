@@ -1,0 +1,3 @@
+﻿  Main.cpp
+D:\Programming\Visual Studio\visual project\my_queue\my_queue\Main.cpp(81,33): error C2039: "pop_front": не является членом "std::vector<int,std::allocator<int>>".
+D:\Programming\Visual Studio\visual project\my_queue\my_queue\Main.cpp(139,13): message : см. объявление "std::vector<int,std::allocator<int>>"
